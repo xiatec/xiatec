@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @xiatec
-- 👀 I’m interested in FrontEnd and Algorithm
-- 🌱 I’m currently learning Vue and React
-- 💞️ I’m looking to collaborate on developing great apps
-- 📫 How to reach me --- philstian@gmail.com or My education mail : tianxia0530@mail.nwpu.edu.cn
+- 👀 I’m interested in AI and Data science
+- 💞️ I’m looking to collaborate on find something amazing through data
+- 📫 How to reach me --- philstian@gmail.com
 
 <!---
 xiatec/xiatec is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
